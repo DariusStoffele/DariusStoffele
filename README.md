@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DariusStoffele.
+- 👀 I’m interested in programming, and I particularly love Python!
+- 🌱 I’m currently learning different programming languages.
+- 📫 You can reach me at "d.stoffele@icloud.com".
